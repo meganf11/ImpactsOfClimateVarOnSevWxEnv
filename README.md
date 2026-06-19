@@ -9,9 +9,9 @@ This repo has code from my MS thesis completed in 2022 at the Department of Atmo
 Each notebook shares the same structure: loading and preparing the data and creating basic plots. They are listed in order as they are in the paper. Due to their simplicity, two notebooks are excluded. They include the code used to produce the climatology comparison with ERA5 and the topography plot highlighting the region of interest. Please reach out to (mailto:megan.franke@colostate.edu) if you are interested in them. 
 
 - **Comparison of 4x daily, daily, and monthly data:** `4xdaily_daily_TX_Frontiers.ipynb`
-- **Histograms of convective indices:** `Epoch_Histograms_Weighted.ipynb`
 - **Spatial plots of future anomalies in convective indices:** `stat_sig_EpochPlots.ipynb`
 - **Time series of anomalies in convective indices:** `TimeSeriesFINAL-weighted.ipynb`
+- **Histograms of convective indices:** `Epoch_Histograms_Weighted.ipynb`
 - **Spatial plots highlighting the role of internal variability:** `InteralVariability.ipynb`
 - **Bi-variate probability distributions of convective indices for different time periods:** `StormBPD.ipynb`
   
